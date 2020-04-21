@@ -1,7 +1,6 @@
 body {
   background-image: url(/asset/img/bgfull.jpg);
-  background-repeat: repeat-y;
-  background-repeat: repeat-x;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: center;
   background-position: 20%;
