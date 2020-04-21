@@ -140,14 +140,7 @@ figure {
   margin-right: -20px;
   margin-left: -20px;
 }
-footer {
-  background: #1d1d1d
-    url(
-      https://cdn.shortpixel.ai/client/q_glossy,
-      ret_img/https://slotxo.game/wp-content/uploads/2019/10/footer-bg.png
-    )
-    bottom center no-repeat;
-}
+
 .bg-velvet {
   background-color: #161318 !important;
 }
@@ -229,7 +222,6 @@ h1 {
 }
 .nav-mobile-content {
   position: fixed;
-  left: 0;
   bottom: 0;
   width: 100%;
   z-index: 1;
@@ -260,11 +252,10 @@ h1 {
 .nav-mobile li a {
   float: left;
   color: #ffd053;
-  display: block;
-  width: 19%;
+  width: 24%;
   text-align: center;
-  padding: 10px 0;
-  font-size: 12px;
+  padding: 12px 0px 0px 0px;
+  font-size: 11px;
   font-family: Prompt, sans-serif;
 }
 .bc-hover {
