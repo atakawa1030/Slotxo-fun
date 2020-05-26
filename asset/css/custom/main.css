@@ -18,6 +18,16 @@ body {
   border: 1px solid transparent;
   border-radius: 0.25rem;
 }
+.sticky-top2{
+  position: fixed;
+    width: 100%;
+    top: 0%;
+}
+.sticky-top{
+  position: fixed;
+    width: 100%;
+    top: 0%;
+}
 .ml-auto,
 .mx-auto {
   margin-left: auto !important;
